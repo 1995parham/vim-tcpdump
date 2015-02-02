@@ -2,7 +2,7 @@
 " Vim syntax file
 " Last Change:	2015 Feb 02
 " Maintainer:	Parham Alvani <parham.alvani@gmail.com>
-" Language:
+" Language: TcpDump
 "
 if version < 600
 	syntax clear
